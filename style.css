@@ -49,3 +49,23 @@ section{
     background-size: 60px;
     background-repeat: no-repeat;
 }
+
+.section-half{
+    box-shadow: 10px 10px 20px 5px gray ;
+    /* height: 250px ; */
+    width: 40%;
+    padding: 2rem;
+    margin: 1rem;
+    border-radius: 5px;
+    border-left: 8px solid orangered;
+}
+.baby-blue{
+    border-color: blue;
+}
+
+footer{
+    border-top: 2px solid gray;
+    margin: 2rem;
+    padding: 2rem;
+    text-align: center;
+}
